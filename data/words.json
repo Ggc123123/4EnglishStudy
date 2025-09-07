@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "word": "abandon",
+        "phonetic": "/əˈbændən/",
+        "meaning": "放弃，抛弃",
+        "example": "They abandoned the car on the road.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 2,
+        "word": "ability",
+        "phonetic": "/əˈbɪləti/",
+        "meaning": "能力，才能",
+        "example": "She has the ability to speak multiple languages.",
+        "difficulty": "easy",
+        "category": "common"
+    },
+    {
+        "id": 3,
+        "word": "absorb",
+        "phonetic": "/əbˈsɔːrb/",
+        "meaning": "吸收，吸引",
+        "example": "Plants absorb water from the soil.",
+        "difficulty": "medium",
+        "category": "academic"
+    },
+    {
+        "id": 4,
+        "word": "academic",
+        "phonetic": "/ˌækəˈdemɪk/",
+        "meaning": "学术的，理论的",
+        "example": "He is pursuing an academic career.",
+        "difficulty": "hard",
+        "category": "academic"
+    },
+    {
+        "id": 5,
+        "word": "accept",
+        "phonetic": "/əkˈsept/",
+        "meaning": "接受，同意",
+        "example": "I accept your apology.",
+        "difficulty": "easy",
+        "category": "common"
+    },
+    {
+        "id": 6,
+        "word": "achieve",
+        "phonetic": "/əˈtʃiːv/",
+        "meaning": "实现，达到",
+        "example": "She worked hard to achieve her goals.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 7,
+        "word": "acquire",
+        "phonetic": "/əˈkwaɪər/",
+        "meaning": "获得，学到",
+        "example": "He acquired knowledge through experience.",
+        "difficulty": "hard",
+        "category": "academic"
+    },
+    {
+        "id": 8,
+        "word": "adapt",
+        "phonetic": "/əˈdæpt/",
+        "meaning": "适应，改编",
+        "example": "Humans can adapt to different environments.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 9,
+        "word": "adequate",
+        "phonetic": "/ˈædɪkwət/",
+        "meaning": "足够的，适当的",
+        "example": "The supply is not adequate for the demand.",
+        "difficulty": "hard",
+        "category": "academic"
+    },
+    {
+        "id": 10,
+        "word": "admire",
+        "phonetic": "/ədˈmaɪər/",
+        "meaning": "钦佩，赞赏",
+        "example": "I admire her dedication to her work.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 11,
+        "word": "admit",
+        "phonetic": "/ədˈmɪt/",
+        "meaning": "承认，准许...进入",
+        "example": "She admitted her mistake.",
+        "difficulty": "easy",
+        "category": "common"
+    },
+    {
+        "id": 12,
+        "word": "adopt",
+        "phonetic": "/əˈdɑːpt/",
+        "meaning": "采纳，收养",
+        "example": "They decided to adopt a child.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 13,
+        "word": "advantage",
+        "phonetic": "/ədˈvæntɪdʒ/",
+        "meaning": "优势，好处",
+        "example": "Her height gives her an advantage in basketball.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 14,
+        "word": "adventure",
+        "phonetic": "/ədˈventʃər/",
+        "meaning": "冒险，奇遇",
+        "example": "They went on an adventure in the mountains.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 15,
+        "word": "affect",
+        "phonetic": "/əˈfekt/",
+        "meaning": "影响，感动",
+        "example": "The weather affects my mood.",
+        "difficulty": "medium",
+        "category": "academic"
+    },
+    {
+        "id": 16,
+        "word": "afford",
+        "phonetic": "/əˈfɔːrd/",
+        "meaning": "负担得起，提供",
+        "example": "I can't afford a new car right now.",
+        "difficulty": "easy",
+        "category": "common"
+    },
+    {
+        "id": 17,
+        "word": "afraid",
+        "phonetic": "/əˈfreɪd/",
+        "meaning": "害怕的，担心的",
+        "example": "She is afraid of spiders.",
+        "difficulty": "easy",
+        "category": "common"
+    },
+    {
+        "id": 18,
+        "word": "agency",
+        "phonetic": "/ˈeɪdʒənsi/",
+        "meaning": "代理，中介",
+        "example": "I booked my trip through a travel agency.",
+        "difficulty": "hard",
+        "category": "academic"
+    },
+    {
+        "id": 19,
+        "word": "agree",
+        "phonetic": "/əˈɡriː/",
+        "meaning": "同意，赞成",
+        "example": "I agree with your opinion.",
+        "difficulty": "easy",
+        "category": "common"
+    },
+    {
+        "id": 20,
+        "word": "agreement",
+        "phonetic": "/əˈɡriːmənt/",
+        "meaning": "协议，同意",
+        "example": "We reached an agreement on the terms.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 21,
+        "word": "analyze",
+        "phonetic": "/ˈænəlaɪz/",
+        "meaning": "分析，解析",
+        "example": "Scientists need to analyze the data carefully.",
+        "difficulty": "hard",
+        "category": "academic"
+    },
+    {
+        "id": 22,
+        "word": "announce",
+        "phonetic": "/əˈnaʊns/",
+        "meaning": "宣布，宣告",
+        "example": "The company announced its new product.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 23,
+        "word": "anxious",
+        "phonetic": "/ˈæŋkʃəs/",
+        "meaning": "焦虑的，担忧的",
+        "example": "She feels anxious about the exam.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 24,
+        "word": "apologize",
+        "phonetic": "/əˈpɑːlədʒaɪz/",
+        "meaning": "道歉，谢罪",
+        "example": "He apologized for being late.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 25,
+        "word": "apparent",
+        "phonetic": "/əˈpærənt/",
+        "meaning": "明显的，表面的",
+        "example": "It was apparent that she was upset.",
+        "difficulty": "hard",
+        "category": "academic"
+    },
+    {
+        "id": 26,
+        "word": "appear",
+        "phonetic": "/əˈpɪr/",
+        "meaning": "出现，显得",
+        "example": "A man appeared at the door.",
+        "difficulty": "easy",
+        "category": "common"
+    },
+    {
+        "id": 27,
+        "word": "apply",
+        "phonetic": "/əˈplaɪ/",
+        "meaning": "申请，应用",
+        "example": "I want to apply for that job.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 28,
+        "word": "appreciate",
+        "phonetic": "/əˈpriːʃieɪt/",
+        "meaning": "欣赏，感激",
+        "example": "I really appreciate your help.",
+        "difficulty": "hard",
+        "category": "common"
+    },
+    {
+        "id": 29,
+        "word": "approach",
+        "phonetic": "/əˈproʊtʃ/",
+        "meaning": "接近，方法",
+        "example": "Winter is approaching.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 30,
+        "word": "appropriate",
+        "phonetic": "/əˈproʊpriət/",
+        "meaning": "适当的，恰当的",
+        "example": "Please wear appropriate clothing.",
+        "difficulty": "hard",
+        "category": "academic"
+    },
+    {
+        "id": 31,
+        "word": "argue",
+        "phonetic": "/ˈɑːrɡjuː/",
+        "meaning": "争论，论证",
+        "example": "They often argue about money.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 32,
+        "word": "arrange",
+        "phonetic": "/əˈreɪndʒ/",
+        "meaning": "安排，整理",
+        "example": "Can you arrange a meeting?",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 33,
+        "word": "assume",
+        "phonetic": "/əˈsuːm/",
+        "meaning": "假定，承担",
+        "example": "I assume you're coming with us.",
+        "difficulty": "hard",
+        "category": "academic"
+    },
+    {
+        "id": 34,
+        "word": "attempt",
+        "phonetic": "/əˈtempt/",
+        "meaning": "尝试，企图",
+        "example": "He attempted to climb the mountain.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 35,
+        "word": "attend",
+        "phonetic": "/əˈtend/",
+        "meaning": "参加，出席",
+        "example": "How many people will attend?",
+        "difficulty": "easy",
+        "category": "common"
+    },
+    {
+        "id": 36,
+        "word": "attract",
+        "phonetic": "/əˈtrækt/",
+        "meaning": "吸引，引起注意",
+        "example": "Flowers attract bees.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 37,
+        "word": "available",
+        "phonetic": "/əˈveɪləbl/",
+        "meaning": "可用的，有空的",
+        "example": "Are you available this weekend?",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 38,
+        "word": "aware",
+        "phonetic": "/əˈwer/",
+        "meaning": "意识到的，知道的",
+        "example": "I'm aware of the risks.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 39,
+        "word": "behave",
+        "phonetic": "/bɪˈheɪv/",
+        "meaning": "表现，举止",
+        "example": "Children should behave well.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 40,
+        "word": "believe",
+        "phonetic": "/bɪˈliːv/",
+        "meaning": "相信，认为",
+        "example": "I believe in ghosts.",
+        "difficulty": "easy",
+        "category": "common"
+    },
+    {
+        "id": 41,
+        "word": "belong",
+        "phonetic": "/bɪˈlɔːŋ/",
+        "meaning": "属于，应归入",
+        "example": "This book belongs to me.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 42,
+        "word": "benefit",
+        "phonetic": "/ˈbenɪfɪt/",
+        "meaning": "受益，好处",
+        "example": "Exercise benefits your health.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 43,
+        "word": "bother",
+        "phonetic": "/ˈbɑːðər/",
+        "meaning": "打扰，麻烦",
+        "example": "Sorry to bother you.",
+        "difficulty": "easy",
+        "category": "common"
+    },
+    {
+        "id": 44,
+        "word": "calculate",
+        "phonetic": "/ˈkælkjuleɪt/",
+        "meaning": "计算，推测",
+        "example": "Can you calculate the total?",
+        "difficulty": "hard",
+        "category": "academic"
+    },
+    {
+        "id": 45,
+        "word": "cancel",
+        "phonetic": "/ˈkænsl/",
+        "meaning": "取消，删除",
+        "example": "They cancelled the flight.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 46,
+        "word": "capacity",
+        "phonetic": "/kəˈpæsəti/",
+        "meaning": "能力，容量",
+        "example": "The stadium has a large capacity.",
+        "difficulty": "hard",
+        "category": "academic"
+    },
+    {
+        "id": 47,
+        "word": "careful",
+        "phonetic": "/ˈkerfl/",
+        "meaning": "小心的，仔细的",
+        "example": "Be careful with that glass.",
+        "difficulty": "easy",
+        "category": "common"
+    },
+    {
+        "id": 48,
+        "word": "catch",
+        "phonetic": "/kætʃ/",
+        "meaning": "抓住，赶上",
+        "example": "Can you catch the ball?",
+        "difficulty": "easy",
+        "category": "common"
+    },
+    {
+        "id": 49,
+        "word": "cause",
+        "phonetic": "/kɔːz/",
+        "meaning": "引起，原因",
+        "example": "Smoking can cause cancer.",
+        "difficulty": "medium",
+        "category": "common"
+    },
+    {
+        "id": 50,
+        "word": "challenge",
+        "phonetic": "/ˈtʃælɪndʒ/",
+        "meaning": "挑战，质疑",
+        "example": "This job presents many challenges.",
+        "difficulty": "medium",
+        "category": "common"
+    }
+]
